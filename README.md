@@ -10,5 +10,5 @@ pod install
 
 ## Screenshots
 
-![](https://github.com/alkalemir/CaseApp/blob/main/CaseApp/Screenshots/Screen%20Shot%202022-07-19%20at%2011.21.11.png =250x250)
+![](https://github.com/alkalemir/CaseApp/blob/main/CaseApp/Screenshots/Screen%20Shot%202022-07-19%20at%2011.21.11.png)
 
