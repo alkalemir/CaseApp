@@ -7,6 +7,11 @@ After that you need to run following command on terminal:
 pod install
 ~~~ 
  
+On m1 chip you may have to run following command:
+
+~~~
+arch -x86_64 pod install
+~~~ 
 
 ## Screenshots
 
